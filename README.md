@@ -2,7 +2,7 @@
 
 # MY FIRST REPOSITORY
 
-I will write on bio infomartics workshop wew have from 23third to 27 th 2023
+I will write on bio infomartics workshop we have from 23third to 27 th 2023
 
 # DAY ONE
 **installation of tools**
@@ -18,7 +18,7 @@ I will write on bio infomartics workshop wew have from 23third to 27 th 2023
 
 **Introduction to commandline**
 
-1.introducing the shell what
+1.introducing the shell 
 
 2.navigating files and directories
 
