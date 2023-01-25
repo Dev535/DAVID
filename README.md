@@ -2,13 +2,14 @@
 
 # MY FIRST REPOSITORY
 
-I will wwrite on bio infomartics workshop wew have from 23third to 27 th 2023
+I will write on bio infomartics workshop wew have from 23third to 27 th 2023
 
 # DAY ONE
 **installation of tools**
 
 
 *install gitbash*
+
 *install R and Rstudio*
 
 
